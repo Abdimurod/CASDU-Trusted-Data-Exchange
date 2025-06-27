@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15753839.svg)](https://doi.org/10.5281/zenodo.15753839)
+
 # CASDU – Central Asia’s Sovereign Digital Union
 
 **Trusted Data Exchange Framework for Central Asia (CASDU)** is a strategic initiative to establish an interoperable, sovereign, and standards-based digital infrastructure for cross-border trade, transport, and economic integration across Central Asia.
